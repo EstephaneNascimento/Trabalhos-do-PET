@@ -1,0 +1,25 @@
+@charset "UTF-8";
+
+body{
+    
+    background-color:#F1C30B;
+}
+
+form{
+    margin-top: 100px;
+}
+
+
+
+h6{
+    margin-top: 100px;
+    margin-left: 500px;
+    text-decoration: black;
+    font-family: Arial;
+    font-size: 12;
+}
+
+footer{
+    margin-top: 400px;
+    background-color: black;
+  }

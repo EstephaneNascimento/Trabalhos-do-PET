@@ -1,0 +1,35 @@
+@charset "UTF-8";
+
+body{
+  height: 2000px;
+}
+
+div#objetivo{
+  margin-top: 200px;
+  text-align: center;
+}
+div#destaque{
+  text-align: center;
+  margin-top: 300px;
+}
+h5{
+  text-align: center;
+}
+
+div#carouselExampleControls{
+  margin-top: 300px;
+}
+
+img#primeira-imagem{
+  
+  margin: 300px auto auto auto;
+}
+
+div#botao{
+  margin:  0px auto auto auto;
+}
+
+footer{
+  margin-top: 100px;
+  background-color: black;
+}
